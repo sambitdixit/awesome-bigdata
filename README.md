@@ -138,6 +138,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
 * [Themis](https://github.com/XiaoMi/themis) - Transactions for HBase - coprocessor and chronous(https://github.com/XiaoMi/chronos/) based. 
 * [Haeinsa](https://github.com/VCNC/haeinsa) - Client side transactions for HBase. 
+* [omid](https://github.com/yahoo/omid) - Transaction support for HBase. 
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
 
 
