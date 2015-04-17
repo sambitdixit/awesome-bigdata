@@ -136,6 +136,8 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [InfiniDB](http://infinidb.co/) - is accessed through a MySQL interface and use massive parallel processing to parallelize queries.
 * [OhmData C5](http://ohmdata.com/) - improved version of HBase.
 * [Tephra](https://github.com/continuuity/tephra) - Transactions for HBase.
+* [Themis](https://github.com/XiaoMi/themis) - Transactions for HBase - coprocessor and chronous(https://github.com/XiaoMi/chronos/) based. 
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Client side transactions for HBase. 
 * [Twitter Manhattan](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale) - real-time, multi-tenant distributed database for Twitter scale.
 
 
